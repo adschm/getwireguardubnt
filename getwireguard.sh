@@ -9,7 +9,7 @@
 VERSION=
 # firmware version (v1 or v2)
 # -> overwritten by second argument
-FWVERSION=v2
+FWVERSION=v1
 
 ## Script config section
 FIRSTBOOT_DIR='/config/data/firstboot/install-packages'
