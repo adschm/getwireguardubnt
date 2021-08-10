@@ -46,6 +46,7 @@ if [ $# -lt "1" ]; then
 	echo
 	echo "  getwireguard.sh 1.0.20201221-1 1.0.20210101 v2"
 	echo "  getwireguard.sh 1.0.20201221-1 1.0.20210101"
+	echo "  getwireguard.sh 1.0.20201221-1 \"\" v2"
 	echo "  getwireguard.sh 1.0.20201221-1"
 	echo
 	echo "Default tools version is the same as the specified primary version (without suffix)."
